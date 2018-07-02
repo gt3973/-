@@ -18,6 +18,7 @@ void cMainGame::Setup()
 
 void cMainGame::Update()
 {
+	int num = 0;
 }
 
 void cMainGame::Render()
